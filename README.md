@@ -24,3 +24,5 @@ Open index.html in a browser or host it using GitHub Pages.
 Usage
 Enter ingredients (e.g., “chicken, rice, tomatoes”) or a cuisine (e.g., “Indian”).
 Click “Find Recipes” to view results with a food image.
+<img width="1920" height="1020" alt="Screenshot 2025-07-27 205937" src="https://github.com/user-attachments/assets/edaef30b-00c2-4ccc-a8b1-e99b9051b9aa" />
+<img width="1920" height="1020" alt="Screenshot 2025-07-27 205918" src="https://github.com/user-attachments/assets/a56e749b-f3ac-4b77-925e-f2f190a6a13a" />
